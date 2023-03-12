@@ -248,51 +248,6 @@ footer .gotop
   right:10px;
   z-index:100; 
 }
-/* trang san pham */
-
-section.sanpham
-{
-  display: flex;
-  margin: 0 auto;
-  padding: 0px;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-div.main-div
-{
-  display: flex;
-  margin:  3px;
-  border:  1px solid #dbd7d9;
-  padding: 0px;
-  flex-shrink: 1;
-  border-radius: 5px;
-  margin: 0 auto;
-  flex-direction: column;
-  flex-basis: 32%;
-  background-image: linear-gradient(to top, #cddc39 0%, rgba(0,0,0,0) 10%);
-}
-
-span.sanpham
-{
-  margin: 4px;
-  padding: 3px;
-  min-width: 100%;
-  color: #000000;
-  display:  block;
-  line-height: 34px ;
-  line-height: 2;
-  text-align: center;
-   
-}
-h2.sanpham
-{
-  text-align: center;
-}
-
-p.sanpham{
-  text-align: justify;
-}
 
 /* trang gioi thieu */
 
@@ -360,8 +315,6 @@ div.dangky{
   margin-bottom: 20px;
 }
 /* trang lien he */
-
-
 
 .iconlienhe,.iconvitri{
   padding: 4px;
